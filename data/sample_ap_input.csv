@@ -1,0 +1,4 @@
+AP,rssi,users,bandwidth,latency,congestion
+AP1,-75,20,10,120,80
+AP2,-48,8,50,30,20
+AP3,-62,15,25,70,50
